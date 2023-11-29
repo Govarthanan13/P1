@@ -45,7 +45,6 @@ ul .supply a{
 select{
 	position: relative;
 	height: 30px;
-	width: 1335px;
 	background-color: yellow;
 	border: transparent;
 	left: 1045px;
@@ -67,6 +66,7 @@ ul .cart a{
 }
 .top{
 	height: 85px;
+	width:1335px;
 	background-color:yellow;
 
 }
